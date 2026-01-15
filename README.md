@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on: McKinsey & Company and VshX Intelligence (security-first, zero-knowledge AI)<br>
+🔭 I’m currently working on: Govt Intelligence and VshX Intelligence (security-first, zero-knowledge AI)<br>
 👯I’m looking to collaborate on: Cybersecurity + privacy-preserving AI/LLM security<br>
 🤝 I’m looking for help with: Core knowledge Osint & LLM secure architecture<br>
 🌱 I’m currently learning: Cloud security, threat modeling, LLM security<br>
-💬 Ask me about: Zero-Trust, SOC, Kali Linux, digital forensics<br>
+💬 Ask me about: Zero-Trust, SOC, Kali Linux, LLM, digital forensics<br>
 ⚡ Fun fact: We don’t replace humans—we make them superhuman, securely.
 
 
@@ -43,12 +43,12 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NxtGen-CsAi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NxtGen-CsAi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NxtGen-CsAi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=NxtGen-VshX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NxtGen-VshX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NxtGen-VshX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NxtGen-CsAi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NxtGen-VshX&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
