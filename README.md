@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently working on exciting projects<br>
+🔭 I'm currently working on Zeroknowledge VshX Intelligence projects<br>
 👯 I'm looking to collaborate on open source projects<br>
-🌱 I'm currently learning new technologies<br>
+🌱 I'm currently learning LLM Security & DaaS<br>
 💬 Ask me about web development, programming, and tech<br>
 ⚡ Fun fact: I love my skills more than Woman
 
